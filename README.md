@@ -268,16 +268,4 @@ This project is intended to help practice:
 * Executing queries and handling responses.
 * Managing asynchronous requests with coroutines.
 * Observing UI state using StateFlow.
-* Connecting a data layer to a Jetpack Compose interface.
 * Understanding how generated adapters and selection metadata support Apollo's internals.
-
-## 🔮 Possible Future Improvements
-
-* Display character images using Coil.
-* Add a character details screen.
-* Implement pagination.
-* Add search and filtering.
-* Introduce dependency injection.
-* Add unit tests for data and state-handling logic.
-* Handle network failures and empty responses more gracefully.
-
