@@ -5,7 +5,20 @@ query Characters {
             name
             status
             species
+            gender
+            type
             image
+            origin {
+                name
+            }
+            location {
+                name
+            }
+            episode {
+                id
+                name
+                episode
+            }
         }
     }
 }
