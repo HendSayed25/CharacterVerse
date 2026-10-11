@@ -248,16 +248,6 @@ The application separates data fetching, state management, and UI presentation.
 
 This separation makes the code easier to understand, test, and extend.
 
-## 🔐 Internet Permission
-
-The Android application requires internet access to communicate with the GraphQL API.
-
-Add this permission to `AndroidManifest.xml`, outside the `application` element:
-
-```xml
-<uses-permission android:name="android.permission.INTERNET" />
-```
-
 ## 🎯 Learning Goals
 
 This project is intended to help practice:
