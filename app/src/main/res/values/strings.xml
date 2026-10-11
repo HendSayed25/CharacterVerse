@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">CharacterVerse</string>
+    <string name="title_characterverse">CHARACTERVERSE</string>
+    <string name="subtitle_multiverse_registry">Multiverse Registry</string>
+    <string name="cd_switch_layout_mode">Switch layout mode</string>
+
+    <string name="placeholder_search_entity">Search entity or species…</string>
+    <string name="cd_clear_search">Clear search</string>
+
+    <string name="filter_all">All</string>
+    <string name="filter_alive">Alive</string>
+    <string name="filter_dead">Dead</string>
+    <string name="filter_unknown">Unknown</string>
+    <string name="filter_raw_unknown">unknown</string>
+
+    <string name="empty_search_title">No entities found</string>
+    <string name="empty_search_message">No characters match \"%1$s\" in this dimension.</string>
+    <string name="btn_reset_filters">Reset Search Filters</string>
+
+    <string name="error_gateway_title">Dimensional Gateway Error</string>
+    <string name="btn_reestablish_portal">Re-establish Portal</string>
+    <string name="error_default_message">Failed to connect to the dimensional gateway</string>
+
+    <string name="label_species">Species</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_episodes">Episodes</string>
+    <string name="label_origin_dimension">Origin Dimension</string>
+    <string name="label_last_location">Last Known Location</string>
+    <string name="label_first_appearance">First Appearance</string>
+
+    <string name="default_unknown">Unknown</string>
+    <string name="default_unknown_species">Unknown Species</string>
+    <string name="default_unknown_origin">Unknown Origin</string>
+    <string name="default_unknown_location">Unknown Location</string>
+    <string name="default_not_available">N/A</string>
 </resources>
